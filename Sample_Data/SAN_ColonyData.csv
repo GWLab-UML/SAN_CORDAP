@@ -43,7 +43,7 @@
 3/5/24,ROCOSA,3,94,MCAV,3,10,L,53,52,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,58,OFAV,4.1,0.4,R,94,42,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,59,OFAV,9.8,2.6,L,71,26,Healthy,Healthy,Healthy,NA,
-3/5/24,ROCOSA,3,60,OFAV,13.6,0?,R_L,2.7,60,Healthy,Healthy,Healthy,NA,
+3/5/24,ROCOSA,3,60,OFAV,13.6,0?,L_R,2.7,60,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,61,OFAV,12.4,4.1,L,123,60,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,63,OFAV,12.35,4.1,L,65,50,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,64,OFAV,13.7,8.3,R,92,40,Healthy,Healthy,Healthy,NA,
@@ -88,3 +88,19 @@
 3/4/24,PUNTAPADI,2,56,OFAV,4.1,5.5,R,45,21,Healthy,Healthy,Healthy,NA,5 separate colonies
 3/4/24,PUNTAPADI,2,57,OFAV,15.5,8.4,R,32,8,Healthy,Healthy,Healthy,NA,
 3/4/24,PUNTAPADI,2,58,OFAV,,,,60,36,Healthy,Healthy,Healthy,NA,data sheet not filled out - might be next to 57
+3/6/24,PLAZADETORO,4,88,OFAV,2.8,9.43,R,67,15,Healthy,Healthy,Healthy,NA,
+3/6/24,PLAZADETORO,4,89,OFAV,2.9,7.1,R,120,80,Healthy,Healthy,Healthy,NA,
+3/6/24,PLAZADETORO,4,90,OFAV,21.4,4.1,L,27,24,Healthy,Healthy,Healthy,NA,
+3/6/24,PLAZADETORO,4,91,OFAV,24.8,5.9,L,118,14,Healthy,Healthy,Healthy,NA,"good, surrounded by dead colonies"
+3/6/24,PLAZADETORO,4,92,OFAV,24.7,0,L,55,39,Healthy,Healthy,Healthy,NA,near sctld
+3/6/24,PLAZADETORO,4,93,OFAV,33.4,0,L,130,65,Healthy,Healthy,Healthy,NA,
+3/6/24,PLAZADETORO,4,94,OFAV,39.3,10,R,210,115,Healthy,Healthy,Healthy,NA,
+3/6/24,PLAZADETORO,4,95,OFAV,38,18,R,23,11,Healthy,Healthy,Healthy,NA,
+3/6/24,PLAZADETORO,4,96,OFAV,24.2,3.3,R,68,19,Healthy,Healthy,Healthy,NA,
+3/6/24,PLAZADETORO,4,97,OFAV,22.2,2.23,R,90,64,Healthy,Healthy,Healthy,NA,near sctld
+3/6/24,PLAZADETORO,4,98,OFAV,18.5,1.75,R,112,80,Healthy,Healthy,CLP,?,check photo
+3/6/24,PLAZADETORO,4,63,CNAT,30,3.3,R,45,28,Healthy,Healthy,Healthy,NA,
+3/6/24,PLAZADETORO,4,64,DLAB,52,0.5,L,33,20,Healthy,Healthy,CLP,90,
+3/6/24,PLAZADETORO,4,65,DLAB,53,1.5,L,32,20,Healthy,Healthy,CLP,100,
+3/6/24,PLAZADETORO,4,66,DLAB,37.4,7.2,L,35,18,Healthy,Healthy,CLP,100,
+3/6/24,PLAZADETORO,4,67,PSTR,14.5,8.4,L,20,9,Healthy,Healthy,Healthy,NA,
