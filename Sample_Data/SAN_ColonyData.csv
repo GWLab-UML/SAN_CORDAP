@@ -43,7 +43,7 @@
 3/5/24,ROCOSA,3,94,MCAV,3,10,L,53,52,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,58,OFAV,4.1,0.4,R,94,42,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,59,OFAV,9.8,2.6,L,71,26,Healthy,Healthy,Healthy,NA,
-3/5/24,ROCOSA,3,60,OFAV,13.6,0?,L_R,2.7,60,Healthy,Healthy,Healthy,NA,
+3/5/24,ROCOSA,3,60,OFAV,13.6,0,L,2.7,60,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,61,OFAV,12.4,4.1,L,123,60,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,63,OFAV,12.35,4.1,L,65,50,Healthy,Healthy,Healthy,NA,
 3/5/24,ROCOSA,3,64,OFAV,13.7,8.3,R,92,40,Healthy,Healthy,Healthy,NA,
@@ -72,7 +72,7 @@
 3/4/24,PUNTAPADI,2,46,MCAV,32,3.9,R,67,32,Healthy,Healthy,Healthy,NA,
 3/4/24,PUNTAPADI,2,47,MCAV,24.6,1.1,R,36,25,Healthy,Healthy,Healthy,NA,
 3/4/24,PUNTAPADI,2,48,MCAV,24.8,2,R,50,38,Healthy,Healthy,Healthy,NA,
-3/4/24,PUNTAPADI,2,93,DLAB,23.5,0,L_R,18,8,Healthy,Healthy,Healthy,NA,
+3/4/24,PUNTAPADI,2,93,DLAB,23.5,0,L,18,8,Healthy,Healthy,Healthy,NA,
 3/4/24,PUNTAPADI,2,92,DLAB,23.2,2,L,12,7,Healthy,Healthy,Healthy,NA,
 3/4/24,PUNTAPADI,2,91,DLAB,5.7,0.5,L,29,6,Healthy,Healthy,Healthy,NA,
 3/4/24,PUNTAPADI,2,90,DLAB,35.6,8.2,R,26,10.5,Healthy,Healthy,Healthy,NA,
@@ -87,7 +87,7 @@
 3/4/24,PUNTAPADI,2,55,OFAV,20.5,2.9,L,17,5,Healthy,Healthy,Healthy,NA,
 3/4/24,PUNTAPADI,2,56,OFAV,4.1,5.5,R,45,21,Healthy,Healthy,Healthy,NA,5 separate colonies
 3/4/24,PUNTAPADI,2,57,OFAV,15.5,8.4,R,32,8,Healthy,Healthy,Healthy,NA,
-3/4/24,PUNTAPADI,2,58,OFAV,,,,60,36,Healthy,Healthy,Healthy,NA,data sheet not filled out - might be next to 57
+3/4/24,PUNTAPADI,2,58,OFAV,15.5,8.4,R,60,36,Healthy,Healthy,Healthy,NA,data sheet not filled out - might be next to 57
 3/6/24,PLAZADETOROS,4,88,OFAV,2.8,9.43,R,67,15,Healthy,Healthy,Healthy,NA,
 3/6/24,PLAZADETOROS,4,89,OFAV,2.9,7.1,R,120,80,Healthy,Healthy,Healthy,NA,
 3/6/24,PLAZADETOROS,4,90,OFAV,21.4,4.1,L,27,24,Healthy,Healthy,Healthy,NA,
@@ -159,7 +159,7 @@
 3/7/24,ELARBOL,5,22,OFAV,18.5,10.1,R,107,37,Healthy,Healthy,CLP,20,
 3/7/24,ELARBOL,5,23,OFAV,14.8,3.1,R,138,66,Healthy,Healthy,Healthy,NA,
 3/7/24,ELARBOL,5,24,OFAV,15.7,70,L,175,72,Healthy,Healthy,Healthy,NA,near sctld
-3/7/24,ELARBOL,5,25,OFAV,28.9,0,L_R,282,110,Healthy,Healthy,Healthy,NA,
+3/7/24,ELARBOL,5,25,OFAV,28.9,0,L,282,110,Healthy,Healthy,Healthy,NA,
 3/7/24,ELARBOL,5,28,OFAV,33.5,2,L,126,70,Healthy,Healthy,Healthy,NA,
 3/7/24,ELARBOL,5,29,OFAV,45.6,1.08,L,120,60,Healthy,Healthy,CLP,40,
 3/7/24,ELARBOL,5,37,OFAV,48.5,9.2,L,70,32,Healthy,Healthy,Healthy,NA,
