@@ -141,17 +141,17 @@
 032024,3/7/24,COL,SAN,ELARBOL,5,23,141,OFAV,Core_RNAlater,Healthy,10:31,10:59,,032024_COL_SAN_T5_141_OFAV,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,24,142,OFAV,Core_RNAlater,Healthy,10:43,10:59,,032024_COL_SAN_T5_142_OFAV,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,81,143,DLAB,Core_RNAlater,Healthy,10:20,11:02,,032024_COL_SAN_T5_143_DLAB,UML_Narwhal_R5_B22,,,
-032024,3/7/24,COL,SAN,ELARBOL,5,82,144,PSTR,Core_RNAlater,Healthy,10:20,11:03,,032024_COL_SAN_T5_144_PSTR,UML_Narwhal_R5_B22,,,
+032024,3/7/24,COL,SAN,ELARBOL,5,82,144,PSTR,Core_RNAlater,Healthy,10:20,11:03,,032024_COL_SAN_T5_144_PSTR,UML_Narwhal_R5_B22,UML_Narwhal_R2_B10,,
 032024,3/7/24,COL,SAN,ELARBOL,5,84,145,PSTR,Core_RNAlater,Healthy,10:20,11:03,,032024_COL_SAN_T5_145_PSTR,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,83,146,DLAB,Core_RNAlater,Healthy,10:23,11:06,,032024_COL_SAN_T5_146_DLAB,UML_Narwhal_R5_B22,,,
-032024,3/7/24,COL,SAN,ELARBOL,5,85,147,PSTR,Core_RNAlater,Healthy,10:32,11:07,,032024_COL_SAN_T5_147_PSTR,UML_Narwhal_R5_B22,,,
+032024,3/7/24,COL,SAN,ELARBOL,5,85,147,PSTR,Core_RNAlater,Healthy,10:32,11:07,,032024_COL_SAN_T5_147_PSTR,UML_Narwhal_R5_B22,UML_Narwhal_R2_B10,,
 032024,3/7/24,COL,SAN,ELARBOL,5,86,148,DLAB,Core_RNAlater,Healthy,10:36,11:08,,032024_COL_SAN_T5_148_DLAB,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,87,149,DLAB,Core_RNAlater,Healthy,10:36,11:08,,032024_COL_SAN_T5_149_DLAB,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,10,150,MCAV,Core_RNAlater,Healthy,11:50,12:48,,032024_COL_SAN_T5_150_MCAV,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,1,151,PSTR,Core_RNAlater,Healthy,11:55,12:48,,032024_COL_SAN_T5_151_PSTR,UML_Narwhal_R5_B22,,,Identity not verfied - do not use.  If any of these four samples look weird they may have been double sampled/ there was one more sample in the pill box than noted on the data sheet 
 032024,3/7/24,COL,SAN,ELARBOL,5,11,152,PSTR,Core_RNAlater,Healthy,12:00,12:49,,032024_COL_SAN_T5_152_PSTR,UML_Narwhal_R5_B22,,,Identity not verfied - do not use.  If any of these four samples look weird they may have been double sampled/ there was one more sample in the pill box than noted on the data sheet 
 032024,3/7/24,COL,SAN,ELARBOL,5,4,153,PSTR,Core_RNAlater,Healthy,12:04,12:50,,032024_COL_SAN_T5_153_PSTR,UML_Narwhal_R5_B22,,,Identity not verfied - do not use.  If any of these four samples look weird they may have been double sampled/ there was one more sample in the pill box than noted on the data sheet 
-032024,3/7/24,COL,SAN,ELARBOL,5,12,154,PSTR,Core_RNAlater,Healthy,12:10,12:50,,032024_COL_SAN_T5_154_PSTR,UML_Narwhal_R5_B22,,,Identity not verfied - do not use.  If any of these four samples look weird they may have been double sampled/ there was one more sample in the pill box than noted on the data sheet 
+032024,3/7/24,COL,SAN,ELARBOL,5,12,154,PSTR,Core_RNAlater,Healthy,12:10,12:50,,032024_COL_SAN_T5_154_PSTR,UML_Narwhal_R5_B22,UML_Narwhal_R2_B10,,Identity not verfied - do not use.  If any of these four samples look weird they may have been double sampled/ there was one more sample in the pill box than noted on the data sheet 
 032024,3/7/24,COL,SAN,ELARBOL,5,58,155,PSTR,Core_RNAlater,Healthy,12:20,12:52,,032024_COL_SAN_T5_155_PSTR,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,59,156,PSTR,Core_RNAlater,Healthy,12:24,12:56,,032024_COL_SAN_T5_156_PSTR,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,62,157,PSTR,Core_RNAlater,Healthy,12:32,12:57,,032024_COL_SAN_T5_157_PSTR,UML_Narwhal_R5_B22,,,
@@ -159,8 +159,8 @@
 032024,3/7/24,COL,SAN,ELARBOL,5,94,159,DLAB,Core_RNAlater,Healthy,12:02,13:01,,032024_COL_SAN_T5_159_DLAB,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,100,160,DLAB,Core_RNAlater,Healthy,12:17,13:01,,032024_COL_SAN_T5_160_DLAB,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,99,161,DLAB,Core_RNAlater,Healthy,12:24,13:02,,032024_COL_SAN_T5_161_DLAB,UML_Narwhal_R5_B22,,,
-032024,3/7/24,COL,SAN,ELARBOL,5,96,162,PSTR,Core_RNAlater,Healthy,12:36,13:03,,032024_COL_SAN_T5_162_PSTR,UML_Narwhal_R5_B22,,,
-032024,3/7/24,COL,SAN,ELARBOL,5,97,163,PSTR,Core_RNAlater,Healthy,12:36,13:04,,032024_COL_SAN_T5_163_PSTR,UML_Narwhal_R5_B22,,,
+032024,3/7/24,COL,SAN,ELARBOL,5,96,162,PSTR,Core_RNAlater,Healthy,12:36,13:03,,032024_COL_SAN_T5_162_PSTR,UML_Narwhal_R5_B22,UML_Narwhal_R2_B10,,
+032024,3/7/24,COL,SAN,ELARBOL,5,97,163,PSTR,Core_RNAlater,Healthy,12:36,13:04,,032024_COL_SAN_T5_163_PSTR,UML_Narwhal_R5_B22,UML_Narwhal_R2_B10,,
 032024,3/7/24,COL,SAN,ELARBOL,5,25,164,OFAV,Core_RNAlater,Healthy,11:53,13:07,,032024_COL_SAN_T5_164_OFAV,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,28,165,OFAV,Core_RNAlater,Healthy,12:04,13:07,,032024_COL_SAN_T5_165_OFAV,UML_Narwhal_R5_B22,,,
 032024,3/7/24,COL,SAN,ELARBOL,5,29,166,OFAV,Core_RNAlater,Healthy,12:14,13:12,,032024_COL_SAN_T5_166_OFAV,UML_Narwhal_R5_B22,,,
