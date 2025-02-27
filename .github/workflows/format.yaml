@@ -1,0 +1,23 @@
+name: formatting
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  format-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Check for spaces in files or directories
+        run: |
+          SPACES=$(find . -name "* *")
+          if [ -n "${SPACES}" ]; then
+            echo "Error: Found invalid files or directories:"
+            echo "${SPACES}"
+            exit 1
+          fi
