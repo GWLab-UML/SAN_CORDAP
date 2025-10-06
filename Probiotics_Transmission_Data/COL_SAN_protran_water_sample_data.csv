@@ -1,0 +1,5 @@
+date,timepoint,person_sampling,tank,amt_filtered,num_diseased_corals,sample_num,sample_box_num,notes
+10_04_2025,1,FMA,nursury,40,0,W1,W1,
+10_04_2025,1,NJU,nursury,40,0,W2,W1,
+10_04_2025,1,FMA,UV_FSW,40,0,W3,W1,pre-corals
+10_04_2025,1,NJU,UV_FSW,40,0,W4,W1,pre-corals
