@@ -1,0 +1,5 @@
+Month_year,SampleDate,Country,Location,Experiment,Timepoint,Person_sampling,Tank,Amt_filtered,Num_diseased_corals,Sample_num,Sample_box_num,Tubelabel,Notes
+102025,10_04_2025,COL,SAN,Protran1,1,FMA,nursury,40,0,W1,W1,COL_SAN_Protran1_W1,
+102025,10_04_2025,COL,SAN,Protran1,1,NJU,nursury,40,0,W2,W1,COL_SAN_Protran1_W2,
+102025,10_04_2025,COL,SAN,Protran1,1,FMA,UV_FSW,40,0,W3,W1,COL_SAN_Protran1_W3,pre-corals
+102025,10_04_2025,COL,SAN,Protran1,1,NJU,UV_FSW,40,0,W4,W1,COL_SAN_Protran1_W4,pre-corals
