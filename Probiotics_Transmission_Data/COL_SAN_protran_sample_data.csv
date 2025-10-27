@@ -355,3 +355,6 @@ Month_year,SampleDate,Country,Location,Experiment,Timepoint,Person_sampling,Tank
 102025,10_11_2025,COL,SAN,Protran1,2,FMA_NJU,47,PSTR,T7-1,D,T,354,,,COL_SAN_Protran1_354,,
 102025,10_11_2025,COL,SAN,Protran1,2,FMA_NJU,48,PSTR,T7-3,D,M,355,,,COL_SAN_Protran1_355,,
 102025,10_11_2025,COL,SAN,Protran1,2,FMA_NJU,48,PSTR,T7-3,D,T,356,,,COL_SAN_Protran1_356,,
+102025,10_13_2025,COL,SAN,Protran1,2.1,SUS,48,OFAV,48,H,T,357,,,COL_SAN_Protran1_357,,White in edges but no progression line
+102025,10_13_2025,COL,SAN,Protran1,2.1,SUS,44,OFAV,44,D,M,358,,,COL_SAN_Protran1_358,,
+102025,10_13_2025,COL,SAN,Protran1,2.1,SUS,44,OFAV,44,D,T,359,,,COL_SAN_Protran1_359,,
