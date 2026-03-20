@@ -13,23 +13,23 @@
 13,3/7/24,ELARBOL,5,12,PSTR,43.9,6.95,R,29,20,,,,Healthy,Healthy,,,CLP,?,Healthy,NA,,,,Dead,,,Dead,,,,,
 14,3/7/24,ELARBOL,5,13,MCAV,5.1,4.44,L,43,37,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,,,
 15,3/7/24,ELARBOL,5,14,MCAV,30.2,0.6,l,60,49,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Diseased,5%,,,,
-16,3/7/24,ELARBOL,5,19,OFAV,27,0.65,R,74,23,,,,62024,Healthy,,early stage,Healthy,NA,Diseased,,,,,Not_found,,,Diseased,,,032026,,Disease_Control
+16,3/7/24,ELARBOL,5,19,OFAV,3,0.65,L,74,23,,,,62024,Healthy,,early stage,Healthy,NA,Diseased,,,,,Not_found,,,Diseased,,,032026,,Disease_Control
 17,3/7/24,ELARBOL,5,20,OFAV,35,13,R,36,16,,,,Healthy,Healthy,,not found,Healthy,NA,,,,,,Not_found,,,Not_found ,,,,,
-18,3/7/24,ELARBOL,5,21,OFAV,13.6,10.1,R,70,37,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Not_found,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
-19,3/7/24,ELARBOL,5,22,OFAV,18.5,10.1,R,107,37,,,,Healthy,Healthy,,,CLP,20,Healthy,NA,,,,Healthy,,,Healthy,,,032026,,Healthy_Control
-20,3/7/24,ELARBOL,5,23,OFAV,14.8,3.1,R,138,66,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,032026,,Healthy_Control
-21,3/7/24,ELARBOL,5,24,OFAV,15.7,0.7,L,175,72,,,,62024,Healthy,near sctld,early stage,Healthy,NA,Diseased,,,,,CLP,30%,,Diseased,35%,,032026,OfavED12-18,Disease_Treatment
+18,3/7/24,ELARBOL,5,21,OFAV,11.3,10.22,R,70,37,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Not_found,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
+19,3/7/24,ELARBOL,5,22,OFAV,9.6,9.92,R,107,37,,,,Healthy,Healthy,,,CLP,20,Healthy,NA,,,,Healthy,,,Healthy,,,032026,,Healthy_Control
+20,3/7/24,ELARBOL,5,23,OFAV,16.4,5.5,R,138,66,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,032026,,Healthy_Control
+21,3/7/24,ELARBOL,5,24,OFAV,16.1,0.7,L,175,72,,,,62024,Healthy,near sctld,early stage,Healthy,NA,Diseased,,,,,CLP,30%,,Diseased,35%,,032026,OfavED12-18,Disease_Treatment
 22,3/7/24,ELARBOL,5,25,OFAV,28.9,0,L,282,110,,,3/7/24,Healthy,62024,,,Healthy,NA,Dead,,,,,Dead,,,Dead,,,,,
-23,3/7/24,ELARBOL,5,28,OFAV,33.5,2,L,126,70,,Y,,Healthy,Healthy,,not found,Healthy,NA,,,,,,Healthy,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
-204,3/7/24,ELARBOL,5,29,OFAV,45.6,1.08,L,120,60,,,3/7/24,Healthy,Healthy,,,CLP,40,Healthy,NA,,,,Not_found,,,Healthy,,,032026,,Healthy_Control
-205,3/14/26,ELARBOL,5,31,OFAV,,,R,,,,,,,,,,,,,,,,,,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
-206,3/14/26,ELARBOL,5,32,OFAV,,,R,,,,,,,,,,,,,,,,,,,,Healthy,,,032026,,Healthy_Control
-207,3/14/26,ELARBOL,5,33,OFAV,,,R,,,,,,,,,,,,,,,,,,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
-208,3/14/26,ELARBOL,5,34,OFAV,,,R,,,,,,,,,,,,,,,,,,,,Diseased,,,032026,,Disease_Control
-24,3/14/26,ELARBOL,5,35,OFAV,,,R,,,,,,,,,,,,,,,,,,,,Diseased,,,032026,OfavED12-18,Disease_Treatment
+23,3/7/24,ELARBOL,5,28,OFAV,33.5,2,R,126,70,,Y,,Healthy,Healthy,,not found,Healthy,NA,,,,,,Healthy,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
+204,3/7/24,ELARBOL,5,29,OFAV,47.9,2.2,L,120,60,,,3/7/24,Healthy,Healthy,,,CLP,40,Healthy,NA,,,,Not_found,,,Healthy,,,032026,,Healthy_Control
+205,3/14/26,ELARBOL,5,31,OFAV,-1.7,13,R,40.8,33,,,,,,,,,,,,,,,,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
+206,3/14/26,ELARBOL,5,32,OFAV,-6,15.1,R,36.1,19.1,,,,,,,,,,,,,,,,,,Healthy,,,032026,,Healthy_Control
+207,3/14/26,ELARBOL,5,33,OFAV,28.8,8.15,R,,,,,,,,,,,,,,,,,,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
+208,3/14/26,ELARBOL,5,34,OFAV,0.5,20.5,R,53.2,30,,,,,,,,,,,,,,,,,,Diseased,,,032026,,Disease_Control
+24,3/14/26,ELARBOL,5,35,OFAV,31.2,10.5,R,,,,,,,,,,,,,,,,,,,,Diseased,,,032026,OfavED12-18,Disease_Treatment
 202,3/7/24,ELARBOL,5,37,OFAV,48.5,9.2,L,70,32,,Y,3/7/24,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,,,
-203,3/14/26,ELARBOL,5,43,OFRA,,,R,,,,,,,,,,,,,,,,,,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
-25,3/14/26,ELARBOL,5,44,OFAV,,,R,,,,,,,,,,,,,,,,,,,,Healthy,,,032026,,Healthy_Control
+203,3/14/26,ELARBOL,5,43,OFRA,30,0.5,R,58.1,25,,,,,,,,,,,,,,,,,,Healthy,,,032026,OfavED12-18,Healthy_Treatment
+25,3/14/26,ELARBOL,5,44,OFAV,19,0.33,L,84.3,40,,,,,,,,,,,,,,,,,,Healthy,,,032026,,Healthy_Control
 26,3/7/24,ELARBOL,5,58,PSTR,4.8,0.78,L,21,20,,,,Healthy,Healthy,,not found,CLP,?,,,,,,Healthy,,,Healthy,,,,,
 27,3/7/24,ELARBOL,5,59,PSTR,0,6.7,L,27,12,,Y,,62024,Healthy,,,Healthy,NA,Diseased,15%,,,,Healthy,,,Healthy,,,,,
 28,3/7/24,ELARBOL,5,62,PSTR,0,0.79,?,29,23,,,,Healthy,Healthy,348˚ heading,,Healthy,NA,,,,,,Not_found,,,"Healthy,CLP ",,CLP 2%,,,
@@ -41,50 +41,50 @@
 34,3/7/24,ELARBOL,5,86,DLAB,28.5,4.4,R,36,27,,Y,,Healthy,Healthy,,pale,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,,,
 35,3/7/24,ELARBOL,5,87,DLAB,38.3,8,R,10,12,,,3/7/24,Healthy,Healthy,,,CLP,90,Healthy,NA,,,,Healthy,,,Healthy,,,,,
 209,3/7/24,ELARBOL,5,88,DLAB,38.3,8,R,27,15,,,,Healthy,Healthy,,pale,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,,,
-210,3/14/26,ELARBOL,5,89,OFRA,,,L,,,,,,,,,,,,,,,,,,,,Diseased,,,032026,OfavED12-18,Disease_Treatment
-211,3/14/26,ELARBOL,5,90,OFRA,,,L,,,,,,,,,,,,,,,,,,,,Diseased,,,032026,,Disease_Control
-212,3/14/26,ELARBOL,5,91,OFRA,,,L,,,,,,,,,,,,,,,,,,,,Diseased,,,032026,OfavED12-18,Disease_Treatment
-36,3/14/26,ELARBOL,5,92,OFRA,,,R,,,,,,,,,,,,,,,,,,,,Diseased,,,032026,,Disease_Control
+210,3/14/26,ELARBOL,5,89,OFRA,65,7,L,120,50,,,,,,,,,,,,,,,,,,Diseased,,,032026,OfavED12-18,Disease_Treatment
+211,3/14/26,ELARBOL,5,90,OFRA,70,10,L,65,36,,,,,,,,,,,,,,,,,,Diseased,,,032026,,Disease_Control
+212,3/14/26,ELARBOL,5,91,OFRA,50.1,7.1,L,11,11,,,,,,,,,,,,,,,,,,Diseased,,,032026,OfavED12-18,Disease_Treatment
+36,3/14/26,ELARBOL,5,92,OFRA,48.5,0,L,90.8,105,,,,,,,,,,,,,,,,,,,,,032026,,Disease_Control
 37,3/7/24,ELARBOL,5,94,DLAB,47.8,5,L,19,10,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,,,
 38,3/7/24,ELARBOL,5,96,PSTR,32.1,1.4,R,20,8,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,,,
 39,3/7/24,ELARBOL,5,97,PSTR,32.6,1.4,R,16,1,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,,,
 40,3/7/24,ELARBOL,5,99,DLAB,10.8,4.6,R,12,3,,,3/7/24,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy,,,,,
 41,3/7/24,ELARBOL,5,100,DLAB,7.8,11.3,R,27,4,,,,Healthy,Healthy,,pale,Healthy,NA,Healthy,NA,,,,Not_found,,,Not_found ,,,,,
-42,3/2/24,NIRVANA,1,16,OFAV,1.6,0.8,L,86,32,,Y,,62024,Healthy,,early stage,Healthy,NA,Diseased,,,,,Healthy,,,,,,,,
-43,3/2/24,NIRVANA,1,17,OFAV,15.8,1.28,L,85,39,,,,62024,Healthy,,,Healthy,NA,Diseased,15%,,,,Dead,,,,,,,,
-44,3/2/24,NIRVANA,1,18,OFAV,17.25,3.79,L,82,44,,Y,,62024,Healthy,,,Healthy,NA,Diseased,30%,,,,Diseased,,,,,,,,
-45,3/2/24,NIRVANA,1,19,OFAV,28.2,1.74,R,88,52,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Diseased,,,,,,,,
-46,3/2/24,NIRVANA,1,20,OFAV,20.3,4.83,R,35,0.5,,,,Healthy,Healthy,several patches of 1 colony,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-47,3/2/24,NIRVANA,1,21,OFAV,11.2,6.9,L,44,18,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-48,3/2/24,NIRVANA,1,22,OFAV,6.6,9.4,L,140,65,,,,Healthy,Healthy,several patches of 1 colony,,Healthy,NA,Healthy,NA,,,,Diseased,,,,,,,,
-49,3/2/24,NIRVANA,1,23,OFAV,35.2,5,L,153,73,,,,62024,Healthy,"Recovering bleaching, paling",,CLP,i,Diseased,70%,,,,Diseased,,,,,,,,
-50,3/2/24,NIRVANA,1,24,OFAV,3.1,9,L,32,25,,Y,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Diseased,,,,,,,,
-51,3/2/24,NIRVANA,1,25,OFAV,8,11,L,156,69,,,,62024,Healthy,,,Healthy,NA,Diseased,,,,,Not_found,,,,,,,,
-52,3/2/24,NIRVANA,1,26,DLAB,18,12,L,20,1,,Y,,Healthy,62024,,,Healthy,NA,Dead,,,,,Dead,,,,,,,,
-53,3/2/24,NIRVANA,1,30,DLAB,36.9,9.2,R,83,21,,Y,,Healthy,Healthy,,not found,Healthy,NA,not_visited,,,,,Healthy,,,,,,,,
-54,3/2/24,NIRVANA,1,31,DLAB,36.9,3.9,R,28,13,,,,62024,Healthy,,,Healthy,NA,Diseased,25%,,,,Healthy,,,,,,,,
-55,3/2/24,NIRVANA,1,49,DLAB,28.5,10,L,42,18,,,,Healthy,Healthy,,,CLP,90,Healthy,NA,,,,Healthy,,,,,,,,
-56,3/2/24,NIRVANA,1,50,DLAB,28,8,L,28,14,,,,Healthy,Healthy,,,CLP,30,Healthy,NA,,,,Healthy,,,,,,,,
-57,3/2/24,NIRVANA,1,51,PSTR,20,0,L,210,5,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-58,3/2/24,NIRVANA,1,52,DLAB,6.5,7,L,25,15,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-59,3/2/24,NIRVANA,1,53,DLAB,5,5,L,28,15,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-60,3/2/24,NIRVANA,1,54,DLAB,1,8,L,17,13,,,,62024,Healthy,,,CLB,20,Diseased,50%,,,,Dead,,,,,,,,
-61,3/2/24,NIRVANA,1,55,PSTR,1,0.5,R,15,6,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Dead,,,,,,,,
-62,3/2/24,NIRVANA,1,56,DLAB,12.2,5.2,R,20,5,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-63,3/2/24,NIRVANA,1,57,DLAB,15.5,9,R,40,12,,Y,,62024,Healthy,,,CLP,40,Diseased,60%,,,,Dead,,,,,,,,
-64,3/2/24,NIRVANA,1,61,MCAV,22.3,3.9,R,62,26,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-65,3/2/24,NIRVANA,1,62,MCAV,33.2,9.7,R,50,18,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-66,3/2/24,NIRVANA,1,63,MCAV,40.1,0.7,L,45,21,,,,Healthy,Healthy,growth anomaly?,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-67,3/2/24,NIRVANA,1,64,MCAV,29.2,1,L,73,62,,Y,,62024,Healthy,,,Healthy,NA,Diseased,,,,,Healthy,,,,,,,,
-68,3/2/24,NIRVANA,1,65,MCAV,22.2,0.5,L,55,18,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-69,3/2/24,NIRVANA,1,66,MCAV,9,7.6,L,67,60,,Y,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Diseased,,,,,,,,
-70,3/2/24,NIRVANA,1,67,MCAV,13,9.7,R,34,47,,,,Healthy,Healthy,,,Healthy,NA,,,,,,Healthy,,,,,,,,
-71,3/2/24,NIRVANA,1,68,MCAV,1.4,2.8,L,20,10,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-72,3/2/24,NIRVANA,1,69,MCAV,0,4.4,R,30,7,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-73,3/2/24,NIRVANA,1,70,MCAV,0,0.5,R,62,21,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,,,,,,
-74,1/15/25,NIRVANA,1,71,DLAB,39.7,21.7,R,23,15,,,,,,,,,,,,,,,Healthy,,,,,,,,
-75,1/15/25,NIRVANA,1,72,MCAV,42.5,9.5,R,20,5,,,,,,,,,,,,,,,Healthy,,,,,,,,
-76,1/15/25,NIRVANA,1,73,DLAB,44.1,11.4,R,46,30,,,,,,,,,,,,,,,Healthy,,,,,,,,
+42,3/2/24,NIRVANA,1,16,OFAV,1.6,0.8,L,86,32,,Y,,62024,Healthy,,early stage,Healthy,NA,Diseased,,,,,Healthy,,,Healthy ,,,,,
+43,3/2/24,NIRVANA,1,17,OFAV,15.8,1.28,L,85,39,,,,62024,Healthy,,,Healthy,NA,Diseased,15%,,,,Dead,,,Dead,,,,,
+44,3/2/24,NIRVANA,1,18,OFAV,17.25,3.79,L,82,44,,Y,,62024,Healthy,,,Healthy,NA,Diseased,30%,,,,Diseased,,,Dead,,,,,
+45,3/2/24,NIRVANA,1,19,OFAV,28.2,1.74,R,88,52,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Diseased,,,Dead,,,,,
+46,3/2/24,NIRVANA,1,20,OFAV,20.3,4.83,R,35,0.5,,,,Healthy,Healthy,several patches of 1 colony,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+47,3/2/24,NIRVANA,1,21,OFAV,11.2,6.9,L,44,18,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+48,3/2/24,NIRVANA,1,22,OFAV,6.6,9.4,L,140,65,,,,Healthy,Healthy,several patches of 1 colony,,Healthy,NA,Healthy,NA,,,,Diseased,,,Dead,,,,,
+49,3/2/24,NIRVANA,1,23,OFAV,35.2,5,L,153,73,,,,62024,Healthy,"Recovering bleaching, paling",,CLP,i,Diseased,70%,,,,Diseased,,,Healthy ,,,,,
+50,3/2/24,NIRVANA,1,24,OFAV,3.1,9,L,32,25,,Y,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Diseased,,,Healthy ,,,,,
+51,3/2/24,NIRVANA,1,25,OFAV,8,11,L,156,69,,,,62024,Healthy,,,Healthy,NA,Diseased,,,,,Not_found,,,Not_found,,,,,
+52,3/2/24,NIRVANA,1,26,DLAB,18,12,L,20,1,,Y,,Healthy,62024,,,Healthy,NA,Dead,,,,,Dead,,,Dead,,,,,
+53,3/2/24,NIRVANA,1,30,DLAB,36.9,9.2,R,83,21,,Y,,Healthy,Healthy,,not found,Healthy,NA,not_visited,,,,,Healthy,,,Healthy ,,,,,
+54,3/2/24,NIRVANA,1,31,DLAB,36.9,3.9,R,28,13,,,,62024,Healthy,,,Healthy,NA,Diseased,25%,,,,Healthy,,,Healthy ,,,,,
+55,3/2/24,NIRVANA,1,49,DLAB,28.5,10,L,42,18,,,,Healthy,Healthy,,,CLP,90,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+56,3/2/24,NIRVANA,1,50,DLAB,28,8,L,28,14,,,,Healthy,Healthy,,,CLP,30,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+57,3/2/24,NIRVANA,1,51,PSTR,20,0,L,210,5,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+58,3/2/24,NIRVANA,1,52,DLAB,6.5,7,L,25,15,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+59,3/2/24,NIRVANA,1,53,DLAB,5,5,L,28,15,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+60,3/2/24,NIRVANA,1,54,DLAB,1,8,L,17,13,,,,62024,Healthy,,,CLB,20,Diseased,50%,,,,Dead,,,Dead,,,,,
+61,3/2/24,NIRVANA,1,55,PSTR,1,0.5,R,15,6,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Dead,,,Dead,,,,,
+62,3/2/24,NIRVANA,1,56,DLAB,12.2,5.2,R,20,5,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+63,3/2/24,NIRVANA,1,57,DLAB,15.5,9,R,40,12,,Y,,62024,Healthy,,,CLP,40,Diseased,60%,,,,Dead,,,Dead,,,,,
+64,3/2/24,NIRVANA,1,61,MCAV,22.3,3.9,R,62,26,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+65,3/2/24,NIRVANA,1,62,MCAV,33.2,9.7,R,50,18,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+66,3/2/24,NIRVANA,1,63,MCAV,40.1,0.7,L,45,21,,,,Healthy,Healthy,growth anomaly?,,Healthy,NA,Healthy,NA,,,,Healthy,,,"Healthy,DC",5,,,,
+67,3/2/24,NIRVANA,1,64,MCAV,29.2,1,L,73,62,,Y,,62024,Healthy,,,Healthy,NA,Diseased,,,,,Healthy,,,Healthy ,,,,,
+68,3/2/24,NIRVANA,1,65,MCAV,22.2,0.5,L,55,18,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+69,3/2/24,NIRVANA,1,66,MCAV,9,7.6,L,67,60,,Y,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Diseased,,,Healthy ,,,,,
+70,3/2/24,NIRVANA,1,67,MCAV,13,9.7,R,34,47,,,,Healthy,Healthy,,,Healthy,NA,,,,,,Healthy,,,Healthy ,,,,,
+71,3/2/24,NIRVANA,1,68,MCAV,1.4,2.8,L,20,10,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+72,3/2/24,NIRVANA,1,69,MCAV,0,4.4,R,30,7,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+73,3/2/24,NIRVANA,1,70,MCAV,0,0.5,R,62,21,,,,Healthy,Healthy,,,Healthy,NA,Healthy,NA,,,,Healthy,,,Healthy ,,,,,
+74,1/15/25,NIRVANA,1,71,DLAB,39.7,21.7,R,23,15,,,,,,,,,,,,,,,Healthy,,,Healthy ,,,,,
+75,1/15/25,NIRVANA,1,72,MCAV,42.5,9.5,R,20,5,,,,,,,,,,,,,,,Healthy,,,Healthy ,,,,,
+76,1/15/25,NIRVANA,1,73,DLAB,44.1,11.4,R,46,30,,,,,,,,,,,,,,,Healthy,,,Healthy ,,,,,
 77,3/6/24,PLAZADETOROS,4,17,MCAV,1,6,L,29,14,,,9/29/24,Healthy,Healthy,,,Healthy,NA,Healthy,,Healthy,NA,,Healthy,,,Healthy ,,,,,
 78,3/6/24,PLAZADETOROS,4,18,MCAV,4.7,7.2,L,45,22,,,9/29/24,Healthy,Healthy,Small lesion? SCTLD?,,Healthy,NA,CLB,5%,Healthy,NA,,Healthy,,,Healthy ,,,,,
 79,3/6/24,PLAZADETOROS,4,19,MCAV,8.3,8.6,L,38,20,,,9/29/24,Healthy,Healthy,,,Healthy,NA,Healthy,NA,Healthy,NA,,Healthy,,,"Healthy,DC",,,,,
